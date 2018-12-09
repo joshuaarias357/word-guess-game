@@ -1,0 +1,39 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../images/background-80s.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive !important;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: .5rem !important;
+}
+
+#backdrop {
+    margin-top: 5%;
+    text-align: center;
+    padding: 20px 60px 21rem;
+    color: white;
+}
+
+.columnimg {
+    width: 100%;
+
+}
+
+.row {
+    margin-top: 30px;
+    border: dotted white 3px;
+    padding: 30px 15px;
+}
